@@ -1,3 +1,2 @@
-
-export { observer } from './observer'
-export { observable } from './observable'
+export { observer } from "./observer";
+export { observable } from "./observable";
